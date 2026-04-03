@@ -181,7 +181,7 @@ export default function App() {
           </div>
           <div className="border-t border-slate-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-slate-500 text-sm">
-              © 2026 GeoFarm Simulator. Karya @agil.dss untuk Lomba Media Pembelajaran Nasional.
+              © 2026 GeoFarm Simulator. Karya @desaelynisa untuk Lomba Media Pembelajaran NasionalSS.
             </p>
             <div className="flex items-center gap-6 text-slate-500 text-sm">
               <span>Society 5.0</span>
